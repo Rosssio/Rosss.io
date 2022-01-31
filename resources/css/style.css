@@ -1,3 +1,22 @@
 body {
     background-color: #121212!important;
 }
+
+.page-content {
+    margin-top: 30%;
+    margin-left: 25%;
+}
+
+.name {
+    font-family: 'Oxygen', sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.what-i-do {
+    font-family: 'Oxygen', sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+}
